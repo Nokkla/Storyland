@@ -1,0 +1,9 @@
+settings:
+  story:
+    description: "living in the kingdom of Larion. "
+    characters:
+      player:
+        prompts: ["You walk down the city street looking for somewhere to steal from. You look around and see"]
+
+        item1: "long steel dagger"
+        item2: "length of rope"
