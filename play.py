@@ -75,7 +75,8 @@ def get_curated_exposition(
 
 def instructions():
     text = "\nStorylandland Instructions:"
-    text += '\n To perform an action: write actions starting with a verb. Ex: "eat the pizza" or "pet the cat."'
+    text += "When the “>” is on the screen, you may write the action you would like to perform"
+    text += '\n To perform an action: write actions starting with a verb. Ex: "eat the pizza" or "call Batman."'
     text += '\n To speak: enter "say" followed by the words you want to say. Ex: "say hello " or "say I like chocolate" '
     text += '\n'
     text += "\n\nThe following commands can be used at any time during the game: "
